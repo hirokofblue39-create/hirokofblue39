@@ -1,7 +1,5 @@
 default_language_version:
   python: "python"
-default_language_version:
-  python: python3.11   # ここはあなたのPythonに合わせて（例：python3.12ならpython3.12）
 repos:
   - repo: https://github.com/psf/black
     rev: 24.3.0
