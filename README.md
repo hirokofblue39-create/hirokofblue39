@@ -1,3 +1,4 @@
+[![CI](https://github.com/hirokofblue39-create/hirokofblue39/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/hirokofblue39-create/hirokofblue39/actions/workflows/ci.yml)
 # Blue Ocean
 
 Minimal Python project demonstrating a simple `hello` function.
