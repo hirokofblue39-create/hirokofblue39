@@ -17,4 +17,9 @@ profile = "black"
 
 [tool.ruff]
 line-length = 88
+# プロジェクトの最小サポートPythonに合わせる（CIやpre-commitが3.11なので py311 が安全）
+target-version = "py311"
+
+[tool.ruff.lint]
 select = ["E", "F", "I"]
+
