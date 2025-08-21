@@ -1,5 +1,6 @@
 default_language_version:
-  python: "python"
+  python: "python"   # いまアクティブな .venv の Python（=3.13.7）を使う
+
 repos:
   - repo: https://github.com/psf/black
     rev: 24.3.0
